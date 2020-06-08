@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+title: "Hello, world! I'm"
+name: 'Masroor Syed'
+subtitle: 'I build things using computers.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a computer scientist & I enjoy love working on things that live on the internet, cloud, websites, applications, or anything in between.

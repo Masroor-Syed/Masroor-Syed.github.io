@@ -2,18 +2,25 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
+  - Python
+  - Java
+  - C & C++
   - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - HTML & CSS
+  - SQL
   - React
-  - Vue
+  - Express
   - Node.js
-  - WordPress
+  - MongoDB
+  - Tensorflow
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Wireshark
+  - Tableau
+  - Open Refine
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Masroor, a computer scientist based in Calgary, AB. I recently graduated from [University of Calgary](https://https://ucalgary.ca/) with an BSc(honours) degree in computer science. My honours thesis was on "Evaluation of the usage of cryptography by 3rd party Android libraries" under the supervision of Dr. Joel Reardon. I enjoy love working on things that live on the internet, cloud, websites, applications, or anything in between but I know quite a lot abouting networking and information security. Another one of my passion is judo, althouhg I just started in 2019 I hope to a good judoka in the future.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
-
-Here are a few technologies I've been working with recently:
+Here are a few technologies I've been worked:
