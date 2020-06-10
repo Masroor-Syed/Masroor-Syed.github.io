@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Masroor Syed | Software Engineer',
+  siteTitle: 'Masroor Syed | Software Developer',
   siteDescription: 'Masroor Syed is a software engineer based in Calgary, AB.',
   siteKeywords:
     'Masroor Syed, Masroor, Syed, software engineer, web developer, javascript, ucalgary',
