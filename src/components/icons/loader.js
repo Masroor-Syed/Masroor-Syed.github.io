@@ -1,27 +1,53 @@
 import React from 'react';
 
 const IconLoader = () => (
-  <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <title>Loader Logo</title>
+  <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img">
     <g>
-      <g id="B" transform="translate(11.000000, 5.000000)">
-        <path
-          d="M45.691667,45.15 C48.591667,46.1 50.691667,48.95 50.691667,52.2 C50.691667,57.95 46.691667,61 40.291667,61 L28.541667,61 L28.541667,30.3 L39.291667,30.3 C45.691667,30.3 49.691667,33.15 49.691667,38.65 C49.691667,41.95 47.941667,44.35 45.691667,45.15 Z M33.591667,43.2 L39.241667,43.2 C42.791667,43.2 44.691667,41.85 44.691667,38.95 C44.691667,36.05 42.791667,34.8 39.241667,34.8 L33.591667,34.8 L33.591667,43.2 Z M33.591667,47.5 L33.591667,56.5 L40.191667,56.5 C43.691667,56.5 45.591667,54.75 45.591667,52 C45.591667,49.2 43.691667,47.5 40.191667,47.5 L33.591667,47.5 Z"
-          fill="currentColor"
-        />
+      <title>{'Loader logo'}</title>
+      <rect fill="none" id="canvas_background" height={44} width={44} y={-1} x={-1} />
+      <g display="none" overflow="visible" y={0} x={0} height="100%" width="100%" id="canvasGrid">
+        <rect fill="url(#gridpattern)" strokeWidth={0} y={0} x={0} height="100%" width="100%" />
       </g>
+    </g>
+    <g>
+      <title>{'Layer 1'}</title>
       <path
-        stroke="currentColor"
-        strokeWidth="5"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        d="M 50, 5
-                  L 11, 27
-                  L 11, 72
-                  L 50, 95
-                  L 89, 73
-                  L 89, 28 z"
+        id="svg_2"
+        d="m-0.686988,16.256362"
+        opacity={0.5}
+        strokeWidth={0}
+        stroke="#000"
+        fill="#1be21b"
       />
+      <text
+        xmlSpace="preserve"
+        textAnchor="start"
+        fontFamily="Helvetica, Arial, sans-serif"
+        fontSize={24}
+        id="svg_1"
+        y={18.8813}
+        x={6.312847}
+        strokeWidth={0}
+        stroke="#000"
+        fill="#000000"
+      />
+      <text
+        fontWeight="bold"
+        style={{
+          cursor: 'move',
+        }}
+        xmlSpace="preserve"
+        textAnchor="start"
+        fontFamily="Helvetica, Arial, sans-serif"
+        fontSize={24}
+        id="svg_5"
+        y={29.302921}
+        x={-0.335496}
+        strokeWidth={0}
+        stroke="#000"
+        fill="#28d628">
+        {'M.S'}
+      </text>
     </g>
   </svg>
 );
