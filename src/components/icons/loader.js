@@ -4,13 +4,13 @@ const IconLoader = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img">
     <g>
       <title>{'Loader logo'}</title>
-      <rect fill="none" id="canvas_background" height={44} width={44} y={-1} x={-1} />
+      <rect fill="none" id="canvas_background" height={104} width={104} y={-1} x={-1} />
       <g display="none" overflow="visible" y={0} x={0} height="100%" width="100%" id="canvasGrid">
         <rect fill="url(#gridpattern)" strokeWidth={0} y={0} x={0} height="100%" width="100%" />
       </g>
     </g>
     <g>
-      <title>{'Layer 1'}</title>
+      <title>{'Loader logo'}</title>
       <path
         id="svg_2"
         d="m-0.686988,16.256362"
@@ -32,20 +32,19 @@ const IconLoader = () => (
         fill="#000000"
       />
       <text
+        fontStyle="normal"
+        stroke="#000"
+        transform="matrix(2.3657984216956853,0,0,3.5927611293303476,-56.23720820171468,-146.76776934606562) "
         fontWeight="bold"
-        style={{
-          cursor: 'move',
-        }}
         xmlSpace="preserve"
         textAnchor="start"
         fontFamily="Helvetica, Arial, sans-serif"
         fontSize={24}
         id="svg_5"
-        y={29.302921}
-        x={-0.335496}
+        y={63.374677}
+        x={23.996148}
         strokeWidth={0}
-        stroke="#000"
-        fill="#28d628">
+        fill="#007f00">
         {'M.S'}
       </text>
     </g>
