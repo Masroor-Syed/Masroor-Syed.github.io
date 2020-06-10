@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://todo-production.com/sitemap.xml
+Host: https://todo-production.com
