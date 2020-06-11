@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Created a multiplayer party game using the MERN (MongoDB, Express, React.js, Node.js) stack. Implemented the front-end and integrated front-end with back-end. Designed and connected the database with the app. Performed smoke test to make sure our build was deployable.
+Created an android app to help eventgoers navigate events and schedule their day at events. Developed a business plan for a software-based business venture.

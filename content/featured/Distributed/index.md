@@ -13,6 +13,6 @@ showInProjects: true
 ---
 
 Helped in ideation and creation of a distributed RAID-style file storage
-system using Raspberry Pi’s.Implemented integrity check for files in the
+system using Raspberry Pi's. Implemented integrity check for files in the
 system using cryptographic techniques. Created a network discovery
-protocol for different component of the system.
+protocol for different components of the system.

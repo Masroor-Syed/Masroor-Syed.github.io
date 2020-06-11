@@ -4,9 +4,8 @@ title: 'Raw Socket Programming'
 github: ''
 external: ''
 tech:
-  - Ember
-  - JS
-  - SCSS
+  - C
+  - C socket progamming
 company: 'Project'
 showInProjects: true
 ---

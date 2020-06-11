@@ -13,4 +13,4 @@ company: 'Project'
 showInProjects: true
 ---
 
-Worked on simple machine learning projects using tensorflow v2. The creating a neural net and a convoluational nueral net using minst dataset to detect number in images. Creating a logistic regression model to predict coronary heart disease
+Worked on simple machine learning projects using tensorflow v2. Created a neural net and a convoluational neural net using MNIST dataset to detect number in images. Created a logistic regression model to predict coronary heart disease.

@@ -7,10 +7,8 @@ range: 'May 2019 – August 2019'
 url: 'https://www.ucalgary.ca/elisa/'
 ---
 
-- Worked under the supervision of Dr. Carey Williamson to create tools to detect
-  periodic and quasi-periodic network traffic on the University of Calgary edge
-  network.
+- Worked under the supervision of Dr. Carey Williamson to create tools to detect periodic and quasi-periodic network traffic on the University of Calgary edge network.
 
 - Analyzed suspicious traffic on the University of Calgary edge network.
 
-- Work with a variety of different languages, platforms and frameworks, such as Python, Pandas and Numpy, matplotlib and Vertica database.
+- Worked with a variety of different languages, platforms and frameworks, such as Python, Pandas and Numpy, matplotlib and Vertica database.

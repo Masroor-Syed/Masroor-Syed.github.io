@@ -9,11 +9,11 @@ url: 'https://www.ucalgary.ca/'
 
 - Teaching assistant for introduction to distributed systems class.
 
-- Supporting students on their class projects.
+- Supported students on their class projects.
 
-- Corresponding daily with students via
+- Corresponded daily with students via
   email and office hours.
 
-- Responsible for grading student projects.
+- Was responsible for grading student projects.
 
-- Work with a variety of different languages, platforms and frameworks, such as Java, Node and AWS.
+- Worked with a variety of different languages, platforms and frameworks, such as Java, Node and AWS.
