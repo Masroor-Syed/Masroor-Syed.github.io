@@ -1,7 +1,7 @@
 ---
 title: "Hello, world! I'm"
 name: 'Masroor Syed'
-subtitle: 'I build things using computers.'
+subtitle: 'I develop solutions that use technology'
 buttonText: 'Get In Touch'
 ---
 
